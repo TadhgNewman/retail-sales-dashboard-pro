@@ -1,0 +1,51 @@
+order_date,customer_name,product_name,category,region,sales,quantity,discount,profit,order_id
+2022-01-01,Eli,Monitor,Office Supplies,East,707.91,3,0.05,59.07,A000
+2022-01-08,Fay,Pen,Technology,Central,738.99,3,0.1,47.73,A001
+2022-01-15,Alice,Phone,Technology,South,526.26,9,0.0,148.98,A002
+2022-01-22,Dana,Binder,Technology,Central,958.28,2,0.0,109.91,A003
+2022-01-29,Dana,Phone,Furniture,Central,661.79,6,0.1,282.43,A004
+2022-02-05,Dana,Chair,Technology,South,452.66,9,0.2,230.77,A005
+2022-02-12,Bob,Chair,Technology,East,626.07,5,0.0,225.86,A006
+2022-02-19,Dana,Binder,Technology,East,68.23,1,0.2,271.6,A007
+2022-02-26,Fay,Laptop,Furniture,East,336.5,3,0.15,29.61,A008
+2022-03-05,Charlie,Laptop,Technology,West,677.16,6,0.15,167.9,A009
+2022-03-12,Eli,Monitor,Office Supplies,Central,325.57,6,0.0,177.42,A010
+2022-03-19,Gus,Chair,Furniture,East,637.11,1,0.0,288.77,A011
+2022-03-26,Alice,Binder,Technology,West,457.33,9,0.15,91.18,A012
+2022-04-02,Alice,Table,Office Supplies,Central,178.7,2,0.15,76.04,A013
+2022-04-09,Eli,Binder,Furniture,South,333.37,2,0.0,34.59,A014
+2022-04-16,Charlie,Table,Office Supplies,Central,591.47,1,0.15,9.85,A015
+2022-04-23,Bob,Phone,Furniture,Central,611.33,4,0.0,279.21,A016
+2022-04-30,Gus,Phone,Technology,South,595.61,9,0.1,202.63,A017
+2022-05-07,Gus,Chair,Office Supplies,West,670.54,9,0.05,236.62,A018
+2022-05-14,Alice,Table,Office Supplies,East,669.5,5,0.0,88.11,A019
+2022-05-21,Bob,Table,Technology,East,459.85,5,0.2,177.99,A020
+2022-05-28,Fay,Table,Furniture,East,901.72,1,0.0,23.87,A021
+2022-06-04,Bob,Table,Technology,South,399.18,4,0.15,148.26,A022
+2022-06-11,Fay,Pen,Technology,South,464.07,8,0.2,293.36,A023
+2022-06-18,Alice,Monitor,Furniture,East,897.33,4,0.2,263.57,A024
+2022-06-25,Bob,Pen,Office Supplies,Central,815.88,3,0.05,104.76,A025
+2022-07-02,Eli,Monitor,Office Supplies,Central,718.69,2,0.0,288.66,A026
+2022-07-09,Dana,Phone,Office Supplies,East,145.22,2,0.1,73.35,A027
+2022-07-16,Alice,Pen,Office Supplies,East,923.51,3,0.2,285.05,A028
+2022-07-23,Dana,Chair,Technology,South,728.53,2,0.2,282.71,A029
+2022-07-30,Fay,Monitor,Office Supplies,East,998.9,5,0.1,240.76,A030
+2022-08-06,Gus,Pen,Office Supplies,West,191.98,3,0.2,190.98,A031
+2022-08-13,Alice,Laptop,Office Supplies,Central,874.72,6,0.15,262.91,A032
+2022-08-20,Charlie,Binder,Office Supplies,East,204.37,6,0.1,91.44,A033
+2022-08-27,Dana,Table,Office Supplies,East,634.78,6,0.15,255.44,A034
+2022-09-03,Alice,Phone,Furniture,South,167.63,3,0.0,187.27,A035
+2022-09-10,Bob,Binder,Technology,West,855.61,6,0.0,8.9,A036
+2022-09-17,Dana,Pen,Office Supplies,South,816.95,8,0.0,107.43,A037
+2022-09-24,Fay,Binder,Office Supplies,East,590.65,8,0.15,48.7,A038
+2022-10-01,Dana,Monitor,Technology,Central,436.82,7,0.2,294.64,A039
+2022-10-08,Dana,Binder,Office Supplies,West,115.71,2,0.2,146.12,A040
+2022-10-15,Gus,Binder,Technology,West,712.56,7,0.1,151.73,A041
+2022-10-22,Alice,Pen,Furniture,West,480.87,8,0.1,193.64,A042
+2022-10-29,Bob,Binder,Office Supplies,South,735.95,3,0.2,113.73,A043
+2022-11-05,Bob,Binder,Office Supplies,East,873.06,4,0.05,45.39,A044
+2022-11-12,Bob,Binder,Furniture,East,976.75,2,0.15,247.52,A045
+2022-11-19,Alice,Chair,Office Supplies,East,863.01,6,0.15,61.01,A046
+2022-11-26,Charlie,Monitor,Furniture,West,61.13,3,0.15,155.84,A047
+2022-12-03,Eli,Binder,Furniture,West,391.98,1,0.05,71.17,A048
+2022-12-10,Dana,Pen,Office Supplies,Central,743.49,2,0.1,33.86,A049

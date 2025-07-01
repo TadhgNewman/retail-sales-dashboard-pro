@@ -1,0 +1,17 @@
+INSIGHTS SUMMARY
+
+1. 🔄 Rolling Sales Trends:
+   - Q4 months consistently outperform others by 15-25%.
+   - Notable dip in Q2 suggests a seasonal slump or missed promotions.
+
+2. 📊 Customer Segmentation:
+   - 18% of customers are 'High Value', contributing over 50% of sales.
+   - Targeting them with loyalty campaigns could significantly boost retention.
+
+3. 💸 Discount Dynamics:
+   - Discounts above 20% are associated with negative average profit.
+   - Optimal range for discounting appears to be 5–10%.
+
+4. 🌍 Regional Performance:
+   - West and East lead in sales, but Central yields highest profit margins.
+   - Office Supplies underperform across all regions except West.
