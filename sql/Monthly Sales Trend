@@ -1,0 +1,7 @@
+SELECT 
+    STRFTIME('%Y-%m', DATE(order_date)) AS month,
+    ROUND(SUM(sales), 2) AS monthly_sales,
+    ROUND(SUM(profit), 2) AS monthly_profit
+FROM superstore_sales
+GROUP BY month
+ORDER BY month;
