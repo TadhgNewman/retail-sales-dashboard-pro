@@ -62,6 +62,5 @@ This project demonstrates end-to-end analytics skills:
 
 ---
 
-**Author**: [Your Name]  
-**GitHub Repo**: [Link to your GitHub project]  
-**Live Dashboard**: [Tableau Public URL]
+
+**Live Dashboard**:(https://public.tableau.com/shared/BQRJ3847G?:display_count=n&:origin=viz_share_link)
