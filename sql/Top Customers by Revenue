@@ -1,0 +1,7 @@
+SELECT 
+    customer_name,
+    ROUND(SUM(sales), 2) AS total_spent
+FROM superstore_sales
+GROUP BY customer_name
+ORDER BY total_spent DESC
+LIMIT 10;
